@@ -15,9 +15,9 @@ persist through page loads due to the use of local storage.
 
 ![image](https://github.com/Austin-Marlatt/Daily-Planner/assets/148661094/5af35bc4-dce5-4ded-b96a-a00ad24a7dfa)
 
-## Deployment'
+## Deployment
 
-The website can be visited here: 
+The website can be visited here: [Daily Planner](https://austin-marlatt.github.io/Daily-Planner/)
 
 ## License
 
